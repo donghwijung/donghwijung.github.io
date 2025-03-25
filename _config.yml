@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: Robotics, SLAM, Mapping, Localization, LiDAR, Camera, IMU # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: r2d2.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: r2d2.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://donghwijung.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
