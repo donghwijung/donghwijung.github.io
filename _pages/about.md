@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <p>Robotics Researcher</p>
-      <p>SLAM, Mapping, and Localization</p>
-      <p>LiDAR, Camera, and IMU</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,7 +19,7 @@ About Me:
 Donghwi Jung, a Ph.D. candidate studying at the [Autonomous Robot Intelligence Lab](https://arisnu.squarespace.com/) at [Seoul National University](https://en.snu.ac.kr/).
 
 Research Area:
-SLAM, mapping, and localization based on multi-modal sensors (LiDAR, camera, IMU, etc.) through various environments (indoor, outdoor, off-road, underwater, etc.).
+Language-based spatial understanding. SLAM, Mapping, and Localization.
 
 Academic Activities:
 Reviewer of [IEEE International Conference on Robotics and Automation (ICRA), 2024](https://2024.ieee-icra.org/).
