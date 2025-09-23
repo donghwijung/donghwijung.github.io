@@ -26,7 +26,7 @@ SLAM, Mapping, and Localization.<br>
 Autonomous Navigation<br>
 
 <b>Education:</b><br>
-Ph.D. Candidate, [Smart City Engineering](https://smartcity.snu.ac.kr/), (Department of Civil and Environmental Engineering)[https://cee.snu.ac.kr/], Seoul National University, Sep. 2020 – Feb. 2026 (expected).<br>
+Ph.D. Candidate, [Smart City Engineering](https://smartcity.snu.ac.kr/), [Department of Civil and Environmental Engineering](https://cee.snu.ac.kr/), Seoul National University, Sep. 2020 – Feb. 2026 (expected).<br>
 B.S., [Food Biotechnology](https://food.snu.ac.kr/en/) (Double Major in [Entrepreneurship](https://ect.snu.ac.kr/venture/introduction)), Seoul National University, Mar. 2008 – Feb. 2017.
 
 <b>Global Experience:</b><br>
