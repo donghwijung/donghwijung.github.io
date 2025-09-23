@@ -17,8 +17,8 @@ social: false # includes social icons at the bottom of the page
 
 About Me:<br>
 Donghwi Jung, a Ph.D. candidate at the 
-<a href="https://arisnu.squarespace.com/">Autonomous Robot Intelligence Lab</a>, 
-<a href="https://en.snu.ac.kr/">Seoul National University</a>.
+[Autonomous Robot Intelligence Lab](https://aril.snu.ac.kr/), 
+[Seoul National University](https://en.snu.ac.kr/).
 
 <br><br>
 
@@ -36,23 +36,23 @@ B.S., Food and Animal Biotechnology (Double Major in Technology Management), Seo
 
 Global Experience:<br>
 Visiting Researcher (July 2023 – February 2024) at the 
-<a href="https://janeshin-website.github.io/">Active Perception and Robot Intelligence Lab</a>, 
-<a href="https://mae.ufl.edu/">Department of Mechanical and Aerospace Engineering</a>, 
-<a href="https://mae.ufl.edu/">University of Florida</a>.<br>
+[Active Perception and Robot Intelligence Lab](https://janeshin-website.github.io/), 
+[Department of Mechanical and Aerospace Engineering](https://mae.ufl.edu/), 
+[University of Florida](https://mae.ufl.edu/).<br>
 Exchange Student, National University of Singapore, Fall 2013 – Spring 2014 (two semesters).
 
 <br><br>
 
 Academic Activities:<br>
 Reviewer for the 
-<a href="https://2024.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA), 2024</a>.<br>
+[IEEE International Conference on Robotics and Automation (ICRA), 2024](https://2024.ieee-icra.org/).<br>
 Reviewer for the 
-<a href="https://www.ieee-ras.org/publications/ra-l">IEEE Robotics and Automation Letters (RA-L)</a>.
+[IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l).
 
 <br><br>
 
 Teaching Experience:<br>
-Guest Lecturer, <i>Sensors and Actuators (Special Lecture)</i>, Summer 2022.<br>
+Guest Lecturer, <i>Sensors and Actuators (Special Lecture)</i>, [Arusha Technical College](https://www.atc.ac.tz/), Summer 2022.<br>
 Teaching Assistant, <i>Building Robot Intelligence</i>, College of Engineering, Seoul National University, Fall 2021 – Spring 2022 (2 semesters).<br>
 Teaching Assistant, <i>Introduction to Computing</i>, Liberal Education, Seoul National University, Summer 2021 – Spring 2022 (3 semesters).<br>
 Teaching Assistant, <i>Basic Math and Programming for Machine Learning</i>, College of Engineering, Seoul National University, Spring 2021.
