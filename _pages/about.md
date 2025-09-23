@@ -26,7 +26,7 @@ SLAM, Mapping, and Localization.<br>
 Autonomous Navigation<br>
 
 <b>Education:</b><br>
-Ph.D. Candidate, [Smart City Engineering](https://smartcity.snu.ac.kr/), [Department of Civil and Environmental Engineering](https://cee.snu.ac.kr/), Seoul National University, Sep. 2020 – Feb. 2026 (expected).<br>
+Ph.D. Candidate, [Smart City Engineering](https://smartcity.snu.ac.kr/eng/index.php), [Department of Civil and Environmental Engineering](https://cee.snu.ac.kr/english/index.php), Seoul National University, Sep. 2020 – Feb. 2026 (expected).<br>
 B.S., [Food Biotechnology](https://food.snu.ac.kr/en/) (Double Major in [Entrepreneurship](https://ect.snu.ac.kr/venture/introduction)), Seoul National University, Mar. 2008 – Feb. 2017.
 
 <b>Global Experience:</b><br>
@@ -53,4 +53,4 @@ Teaching Assistant, <i>Basic Math and Programming for Machine Learning</i>, Coll
 <b>Working Experience:</b><br>
 Software Developer, [Langdy](https://langdy.net/intro/home), Jul. 2019 – Jan. 2020.<br>
 Software Developer, [Intake Co.](https://www.intakefoods.kr/), Jan. 2017 – Mar. 2019.<br>
-Manager, [A-Team Ventures](https://ateamventures.career.greetinghr.com), Aug. 2015 – Jun. 2016.
+Manager, [A-Team Ventures](https://capa.ai/), Aug. 2015 – Jun. 2016.
