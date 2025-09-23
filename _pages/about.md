@@ -22,17 +22,18 @@ Donghwi Jung, a Ph.D. candidate at the
 
 <b>Research Area:</b><br>
 Language-based Spatial Understanding for Robotics.<br>
-SLAM, Mapping, and Localization.
+SLAM, Mapping, and Localization.<br>
+Autonomous Navigation<br>
 
 <b>Education:</b><br>
-Ph.D. Candidate, Smart City Engineering, Department of Civil and Environmental Engineering, Seoul National University, Sep. 2020 – Feb. 2026 (expected).<br>
-B.S., Food and Animal Biotechnology (Double Major in Entrepreneurship), Seoul National University, Mar. 2008 – Feb. 2017.
+Ph.D. Candidate, [Smart City Engineering](https://smartcity.snu.ac.kr/), (Department of Civil and Environmental Engineering)[https://cee.snu.ac.kr/], Seoul National University, Sep. 2020 – Feb. 2026 (expected).<br>
+B.S., [Food Biotechnology](https://food.snu.ac.kr/en/) (Double Major in [Entrepreneurship](https://ect.snu.ac.kr/venture/introduction)), Seoul National University, Mar. 2008 – Feb. 2017.
 
 <b>Global Experience:</b><br>
 Visiting Researcher, [Active Perception and Robot Intelligence Lab](https://janeshin-website.github.io/), 
 [Department of Mechanical and Aerospace Engineering](https://mae.ufl.edu/), 
 [University of Florida](https://mae.ufl.edu/), July 2023 – February 2024.<br>
-Exchange Student, National University of Singapore, Fall 2013 – Spring 2014 (two semesters).
+Exchange Student, [National University of Singapore](https://nus.edu.sg/), Fall 2013 – Spring 2014 (two semesters).
 
 <b>Academic Activities:</b><br>
 Reviewer for the 
@@ -47,10 +48,9 @@ Teaching Assistant, <i>Introduction to Computing</i>, Liberal Education, Seoul N
 Teaching Assistant, <i>Basic Math and Programming for Machine Learning</i>, College of Engineering, Seoul National University, Spring 2021.
 
 <b>Presentation Experience:</b><br>
-The 18th KICS Future Communication Technology Workshop (May 23, 2025) – 
-<i>Language Understanding for Spatial Understanding: Human–Robot Communication</i>
+<i>[Language Understanding for Spatial Understanding: Human–Robot Communication](https://docs.google.com/presentation/d/1NkcuQM9w2RLcd6Tt6wLadrFTS-NIkwpn/edit?usp=sharing&ouid=102228592525097534601&rtpof=true&sd=true)</i>, The 18th KICS Future Communication Technology Workshop, May 23, 2025
 
 <b>Working Experience:</b><br>
-Software Developer, Langdy, Jul. 2019 – Jan. 2020.<br>
-Software Developer, Intake Foods Co., Jan. 2017 – Mar. 2019.<br>
-Manager, A-Team Ventures, Aug. 2015 – Jun. 2016.
+Software Developer, [Langdy](https://langdy.net/intro/home), Jul. 2019 – Jan. 2020.<br>
+Software Developer, [Intake Co.](https://www.intakefoods.kr/), Jan. 2017 – Mar. 2019.<br>
+Manager, [A-Team Ventures](https://ateamventures.career.greetinghr.com), Aug. 2015 – Jun. 2016.
