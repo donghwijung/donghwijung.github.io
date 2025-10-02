@@ -31,7 +31,6 @@
       "institution": "National University of Singapore",
       "location": "Singapore",
       "url": "https://nus.edu.sg/",
-      "area": "Food Science",
       "studyType": "Exchange Student",
       "startDate": "2013-07-31",
       "endDate": "2014-05-15",
@@ -46,7 +45,7 @@
       "url": "https://janeshin-website.github.io/",
       "startDate": "2023-07-31",
       "endDate": "2024-02-02",
-      "summary": "Developed a sonar-based loop detection method for underwater SLAM, improving robustness in low-visibility environments"
+      "summary": "I developed a sonar-based loop detection method for underwater SLAM, improving robustness in low-visibility environments"
     },
     {
       "name": "Landgy",
