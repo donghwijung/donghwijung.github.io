@@ -18,18 +18,6 @@
       "courses": ["Integrated Ms.C/Ph.D course.", "Advisor: Dr. Seong-Woo Kim (snwoo@snu.ac.kr)"]
     },
     {
-      "institution": "Seoul National University",
-      "location": "Seoul, Republic of Korea",
-      "url": "https://www.snu.ac.kr/",
-      "area": "Food Science and Biotechnology (Major), Entrepreneurship (Double Major)",
-      "studyType": "B.S.",
-      "startDate": "2008-03",
-      "endDate": "2017-02",
-      "score": "10"
-    }
-  ],
-  "global experience": [
-    {
       "institution": "Active Perception and Robot Intelligence Lab, University of Florida",
       "location": "Florida, United States",
       "url": "https://janeshin-website.github.io/",
@@ -37,6 +25,16 @@
       "studyType": "Visiting Scholar",
       "startDate": "2023-07-31",
       "endDate": "2024-02-02",
+      "score": "10"
+    },
+    {
+      "institution": "Seoul National University",
+      "location": "Seoul, Republic of Korea",
+      "url": "https://www.snu.ac.kr/",
+      "area": "Food Science and Biotechnology (Major), Entrepreneurship (Double Major)",
+      "studyType": "B.S.",
+      "startDate": "2008-03",
+      "endDate": "2017-02",
       "score": "10"
     },
     {
