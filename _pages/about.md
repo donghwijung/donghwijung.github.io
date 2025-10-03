@@ -24,33 +24,3 @@ Donghwi Jung, a Ph.D. candidate at the
 Language-based Spatial Understanding for Robotics.<br>
 SLAM, Mapping, and Localization.<br>
 Autonomous Navigation<br>
-
-<b>Education:</b><br>
-Ph.D. Candidate, [Smart City Engineering](https://smartcity.snu.ac.kr/eng/index.php), [Department of Civil and Environmental Engineering](https://cee.snu.ac.kr/english/index.php), Seoul National University, Sep. 2020 – Feb. 2026 (expected).<br>
-B.S., [Food Biotechnology](https://food.snu.ac.kr/en/) (Double Major in [Entrepreneurship](https://ect.snu.ac.kr/venture/introduction)), Seoul National University, Mar. 2008 – Feb. 2017.
-
-<b>Global Experience:</b><br>
-Visiting Researcher, [Active Perception and Robot Intelligence Lab](https://janeshin-website.github.io/), 
-[Department of Mechanical and Aerospace Engineering](https://mae.ufl.edu/), 
-[University of Florida](https://mae.ufl.edu/), July 2023 – February 2024.<br>
-Exchange Student, [National University of Singapore](https://nus.edu.sg/), Fall 2013 – Spring 2014 (two semesters).
-
-<b>Academic Activities:</b><br>
-Reviewer for the 
-[IEEE International Conference on Robotics and Automation (ICRA), 2024](https://2024.ieee-icra.org/).<br>
-Reviewer for the 
-[IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l).
-
-<b>Teaching Experience:</b><br>
-Guest Lecturer, <i>Sensors and Actuators (Special Lecture)</i>, [Arusha Technical College](https://www.atc.ac.tz/), Summer 2022.<br>
-Teaching Assistant, <i>Building Robot Intelligence</i>, College of Engineering, Seoul National University, Fall 2021 – Spring 2022 (2 semesters).<br>
-Teaching Assistant, <i>Introduction to Computing</i>, Liberal Education, Seoul National University, Summer 2021 – Spring 2022 (3 semesters).<br>
-Teaching Assistant, <i>Basic Math and Programming for Machine Learning</i>, College of Engineering, Seoul National University, Spring 2021.
-
-<b>Presentation Experience:</b><br>
-<i>[Language Understanding for Spatial Understanding: Human–Robot Communication](https://docs.google.com/presentation/d/1NkcuQM9w2RLcd6Tt6wLadrFTS-NIkwpn/edit?usp=sharing&ouid=102228592525097534601&rtpof=true&sd=true)</i>, The 18th KICS Future Communication Technology Workshop, May 23, 2025
-
-<b>Working Experience:</b><br>
-Software Developer, [Langdy](https://langdy.net/intro/home), Jul. 2019 – Jan. 2020.<br>
-Software Developer, [Intake Co.](https://www.intakefoods.kr/), Jan. 2017 – Mar. 2019.<br>
-Manager, [A-Team Ventures](https://capa.ai/), Aug. 2015 – Jun. 2016.
