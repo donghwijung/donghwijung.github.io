@@ -16,8 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <b>About Me:</b><br>
-I am a Senior Researcher in humanoid locomotion control at Samsung Electronics' Future Robotics Office.
-I received Ph.D. from Seoul National University.
+I am a Senior Researcher in humanoid locomotion control at Samsung Electronics’ Future Robotics Office. Before joining Samsung, I received my Ph.D. from Seoul National University.
 
 <b>Research Areas:</b><br>
 Robotics, SLAM, Mapping and Localization, Vision-Language Navigation, Human-Robot Collaboration, and Embodied Intelligence
