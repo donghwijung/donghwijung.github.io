@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <b>About Me:</b><br>
-Donghwi Jung, a Ph.D. candidate at the 
+Donghwi Jung, a Ph.D. at the 
 [Autonomous Robot Intelligence Lab](https://aril.snu.ac.kr/), 
 [Seoul National University](https://en.snu.ac.kr/).
 
