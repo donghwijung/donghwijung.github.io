@@ -3,7 +3,7 @@ layout: page
 title: Transporter safe driving
 description: Transporter safe driving in the shipyard
 img: assets/img/transporter.jpg
-importance: 4
+importance: 6
 category: academic
 related_publications: false
 ---

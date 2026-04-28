@@ -3,7 +3,7 @@ layout: page
 title: IMU-based pose estimation
 description: IMU-based pose estimation for painting operations in the shipyard
 img: assets/img/imu.jpg
-importance: 5
+importance: 7
 category: academic
 related_publications: false
 ---

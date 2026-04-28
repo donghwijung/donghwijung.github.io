@@ -9,9 +9,9 @@ related_publications: true
 ---
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/publication_preview/gotpr.jpg" title="gotpr" %}
-  </div>
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/gotpr.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
 </div>
 
 We developed a text-based place recognition system for outdoor robot service scenarios, such as autonomous taxi and delivery robot pickup.

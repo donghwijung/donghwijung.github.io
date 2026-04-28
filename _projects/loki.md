@@ -3,7 +3,7 @@ layout: page
 title: Loki
 description: Autonomous vehicle
 img: assets/img/loki.jpg
-importance: 3
+importance: 5
 category: academic
 related_publications: true
 ---

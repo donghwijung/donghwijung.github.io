@@ -3,7 +3,7 @@ layout: page
 title: Duckpod
 description: Autonomous delivery robot
 img: assets/img/duckpod.jpg
-importance: 2
+importance: 4
 category: academic
 related_publications: true
 ---

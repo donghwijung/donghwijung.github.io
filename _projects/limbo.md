@@ -3,7 +3,7 @@ layout: page
 title: LIMBO
 description: LIMBO (Language-Image-based Mobile Robot)
 img: assets/img/limbo.png
-importance: 1
+importance: 3
 category: academic
 related_publications: true
 ---

@@ -3,7 +3,7 @@ layout: page
 title: VISKY
 description: VISKY (Mobile Robot for Autonomous Exploration in Unstructured Environments)
 img: assets/img/visky.jpg
-importance: 6
+importance: 8
 category: academic
 related_publications: false
 ---
