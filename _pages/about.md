@@ -16,11 +16,8 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <b>About Me:</b><br>
-Donghwi Jung, a Ph.D. at the 
-[Autonomous Robot Intelligence Lab](https://aril.snu.ac.kr/), 
-[Seoul National University](https://en.snu.ac.kr/).
+I am a Senior Researcher in humanoid locomotion control at Samsung Electronics' Future Robotics Office.
+I received Ph.D. from Seoul National University.
 
-<b>Research Area:</b><br>
-Language-based Spatial Understanding for Robotics.<br>
-SLAM, Mapping, and Localization.<br>
-Autonomous Navigation<br>
+<b>Research Areas:</b><br>
+Robotics, SLAM, Mapping and Localization, Vision-Language Navigation, Human-Robot Collaboration, and Embodied Intelligence

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my Ph.D. in Smart City Engineering from the Department of Civil and Environmental Engineering at Seoul National University. 🎓
+I received my Ph.D. in Smart City Engineering Major from Seoul National University. 🎓

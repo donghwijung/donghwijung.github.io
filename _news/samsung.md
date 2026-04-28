@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to share that I have joined [Samsung Electronics’ Future Robotics Office](https://www.samsung-dxrecruit.com/dept/detail/C0019) as a Senior Researcher, working on humanoid locomotion control. 🤖
+I joined Samsung Electronics’ Future Robotics Office as a Senior Researcher in humanoid locomotion control. 🤖
