@@ -38,6 +38,14 @@
     }
   ],
   "work": [
+    {
+      "name": "Samsung Electronics",
+      "location": "Seoul, Korea",
+      "position": "Senior Engineer",
+      "url": "https://www.samsung.com/",
+      "startDate": "2026-03",
+      "summary": "I am developing perceptive locomotion control algorithms for humanoid robots."
+    },
       {
       "name": "Active Perception and Robot Intelligence Lab, University of Florida",
       "location": "Florida, United States",
