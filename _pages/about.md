@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:donghwi@ssu.ac.kr'>Email</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://hubot-lab.github.io'>HuBot Lab</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://scholar.google.com/citations?user=cplvY6oAAAAJ'>Scholar</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://github.com/donghwijung'>Github</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://www.youtube.com/@donghwijung9109'>Youtube</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://www.linkedin.com/in/donghwi-jung-6b9057a9/'>LinkedIn</a>
+subtitle: <a href='mailto:donghwi@ssu.ac.kr'>Email</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://scholar.google.com/citations?user=cplvY6oAAAAJ'>Scholar</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://github.com/donghwijung'>Github</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://www.youtube.com/@donghwijung9109'>Youtube</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href='https://www.linkedin.com/in/donghwi-jung-6b9057a9/'>LinkedIn</a>
 
 profile:
   align: right
