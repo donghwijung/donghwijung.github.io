@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Donghwi Jung",
-    "label": "Ph.D. in Robotics",
-    "email": "donghwijung@snu.ac.kr",
+    "label": "Assistant Professor, Soongsil University",
+    "email": "donghwi@ssu.ac.kr",
     "url": "https://donghwijung.github.io/"
   },
   "education": [
@@ -39,14 +39,23 @@
   ],
   "work": [
     {
+      "name": "Soongsil University",
+      "location": "Seoul, Korea",
+      "position": "Assistant Professor",
+      "url": "https://hubot-lab.github.io",
+      "startDate": "2026-09",
+      "summary": "Electronic Engineering Major, School of Electronic Engineering (전자정보공학부 전자공학전공). I lead HuBot Lab, studying human-centered robotics and physical intelligence with humanoid robots as a primary research platform."
+    },
+    {
       "name": "Samsung Electronics",
       "location": "Seoul, Korea",
       "position": "Senior Engineer",
       "url": "https://www.samsung.com/",
       "startDate": "2026-03",
-      "summary": "My work focuses on developing perceptive locomotion control and sensor-fusion-based state estimation algorithms for humanoid robots.."
+      "endDate": "2026-08",
+      "summary": "At the Future Robotics Office, I developed perceptive locomotion control and sensor-fusion-based state estimation algorithms for humanoid robots."
     },
-      {
+    {
       "name": "Active Perception and Robot Intelligence Lab, University of Florida",
       "location": "Florida, United States",
       "position": "Visiting Scholar",
