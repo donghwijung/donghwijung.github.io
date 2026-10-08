@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Samsung Electronics’ Future Robotics Office as a Senior Researcher in humanoid locomotion control. 🤖
+I joined Samsung Electronics’ Future Robotics Office as a Staff Engineer in humanoid locomotion control. 🤖

@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 <b>About Me:</b><br>
 I am an Assistant Professor in the Electronic Engineering Major, School of Electronic Engineering, at Soongsil University (숭실대학교 전자정보공학부 전자공학전공), where I lead [HuBot Lab](https://hubot-lab.github.io). I joined Soongsil University in September 2026. My lab studies human-centered robotics and physical intelligence, with humanoid robots as a primary research platform.
 
-Previously, I worked as a Senior Researcher in humanoid locomotion control at Samsung Electronics’ Future Robotics Office from March to August 2026. I received my Ph.D. from Seoul National University.
+Previously, I worked as a Staff Engineer in humanoid locomotion control at Samsung Electronics’ Future Robotics Office from March to August 2026. I received my Ph.D. from Seoul National University.
 
 <b>Research Areas:</b><br>
 Robotics, SLAM, Mapping and Localization, Vision-Language Navigation, Human-Robot Collaboration, and Bio-inspired Grounding for Embodied Intelligence
